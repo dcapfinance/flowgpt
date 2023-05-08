@@ -19,7 +19,7 @@
 - Mermaid (https://github.com/mermaid-js/mermaid)
 - DaisyUI
 
-## Requirements
+## Requirement
 1. Node Version >= 18
 2. OpenAI API Key
 
