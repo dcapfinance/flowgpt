@@ -9,7 +9,7 @@ const Nav = () => {
         <div className="items-center grid-flow-col">
           <a
             className="btn btn-ghost"
-            href="https://www.superkeys.app/"
+            href="https://www.verityblock.ai"
             rel="noreferrer"
             target="_blank"
           >
@@ -25,7 +25,7 @@ const Nav = () => {
         <div className="grid-flow-col gap-2 md:place-self-center md:justify-self-end mr-4 font-serif">
           <span>Made with ❤️ by</span>
           <a
-            href="https://twitter.com/nil_ooy"
+            href="https://twitter.com/dcap_official"
             target="_blank"
             rel="noreferrer"
           >
@@ -35,7 +35,7 @@ const Nav = () => {
             />
           </a>
           <a
-            href="https://github.com/nilooy/flowgpt"
+            href="https://github.com/dcapfinance/flowgpt"
             target="_blank"
             rel="noreferrer"
           >
